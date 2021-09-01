@@ -1,4 +1,4 @@
-package supreme;
+package supreme.calendar;
 
 public class Calendar {
     public static void main(String[] args) {
