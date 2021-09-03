@@ -113,7 +113,6 @@ public class Prompt {
         s.nextLine(); //ignore one newline
         System.out.println("일정을 입력해 주세요.");
         text = s.nextLine();
-
         c.registerPlan(date, text);
     }
 
