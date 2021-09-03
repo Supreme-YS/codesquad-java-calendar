@@ -95,7 +95,8 @@ public class Prompt {
 
         c.registerPlan(date, text);
     }
-    // old version
+
+//    old version
 //    private void cmdRegister(Scanner s, Calendar c) throws ParseException {
 //        System.out.println("[새 일정 등록]");
 //        System.out.println("날짜를 입력해주세요. (yyyy-MM-dd).");
